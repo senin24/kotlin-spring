@@ -1,0 +1,5 @@
+geom20:
+  tfsPath: ${TFS_PATH:D:\TEMP\1_tfs}
+  firPath: ${FIR_PATH:D:\TEMP\2_fir}
+  appInstance: ${APP_INSTANCE:2}
+  expectedDivisionResult: ${EXPECTED_DIVISION_RESULT:0}
